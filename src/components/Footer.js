@@ -46,6 +46,9 @@ const FooterContainer = styled.div`
 `;
 
 const FooterContent = styled.div``;
+{
+  /*div 태그 대용. 통일성을 위해*/
+}
 
 const FooterLinkContainer = styled.div`
   width: 500px;
